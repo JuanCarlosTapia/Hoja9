@@ -9,8 +9,8 @@ Descripción: Programa principal.
 import java.io.*;
 
 class WordTypeCounter {
-	public static void main(String[] arg) throws Exception
-	{	String[] args = {"files/words.txt","files/text.txt","2"};
+	public static void main(String[] args) throws Exception
+	{	
 		if(args.length > 1)
 		{
 			// Declaración e inicialización de variables.
